@@ -2,6 +2,7 @@ using Amount = uint64
 using BlockDuration = uint64
 using MosaicId = uint64
 using Timestamp = uint64
+using PropertyModificationType = uint8
 
 using Address = binary_fixed(25)
 using Hash256 = binary_fixed(32)
